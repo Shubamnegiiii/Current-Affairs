@@ -2,7 +2,7 @@ import fs from "fs";
 import * as cheerio from "cheerio";
 
 const KEY = process.env.AI_API_KEY;
-const MODEL = process.env.MODEL || "gemini-2.5-flash";
+const MODEL = process.env.MODEL || "gemini-3.8-flash";
 const ONLY = (process.env.FILE || "").trim();
 const MAX_BATCHES = parseInt(process.env.MAX_BATCHES || "0", 10) || Infinity;
 const BATCH_SIZE = 8;
