@@ -1,0 +1,802 @@
+[
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.1",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "For the 2027-28 marketing season, what is the approved Minimum Support Price (MSP) for wheat per quintal?",
+  "options": {
+   "A": "Rs 2,286",
+   "B": "Rs 2,475",
+   "C": "Rs 2,585",
+   "D": "Rs 2,610"
+  },
+  "answer": "D",
+  "explanation": "The CCEA increased the MSP for wheat by Rs 25 to Rs 2,610 per quintal for the 2027-28 season. At an estimated cost of production of Rs 1,264 per quintal, wheat provides the highest margin of 106%.",
+  "source_line": "MSP for wheat was increased by Rs 25 to Rs 2,610 per quintal, while barley MSP was increased by Rs 136 to Rs 2,286 per quintal."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.1",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "For the 2027-28 marketing season, which Rabi crop received the highest absolute increase in Minimum Support Price (MSP)?",
+  "options": {
+   "A": "Gram",
+   "B": "Safflower",
+   "C": "Barley",
+   "D": "Rapeseed & Mustard"
+  },
+  "answer": "B",
+  "explanation": "Safflower received the highest absolute increase of Rs 675 per quintal, raising its MSP to Rs 7,215 per quintal. It was followed by rapeseed & mustard with an increase of Rs 413 per quintal.",
+  "source_line": "The highest absolute increase approved for safflower by Rs 675 to Rs 7,215 per quintal, followed by rapeseed & mustard by Rs 413 to Rs 6,613 and lentil (masur) by Rs 390 to Rs 7,390 per quintal."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.1",
+  "type": "application",
+  "difficulty": "hard",
+  "question": "Under the Price Support Scheme, procurement of pulses and oilseeds at MSP for Kharif Marketing Season 2026-27 was approved across which three states?",
+  "options": {
+   "A": "Uttar Pradesh, Karnataka, and Telangana",
+   "B": "Madhya Pradesh, Haryana, and Punjab",
+   "C": "Uttar Pradesh, Maharashtra, and Andhra Pradesh",
+   "D": "Gujarat, Maharashtra, and Rajasthan"
+  },
+  "answer": "A",
+  "explanation": "The CCEA approved MSP procurement of pulses and oilseeds under the Price Support Scheme (PSS) in Uttar Pradesh, Karnataka, and Telangana. The total approved expenditure for this procurement is Rs 5,547.99 crore.",
+  "source_line": "Procurement in States: 03, including UP, Karnataka and Telangana"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.2",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "What is the total project outlay approved for the Green Energy Corridor Phase-III (GEC-III) scheme?",
+  "options": {
+   "A": "Rs 54,082 crore",
+   "B": "Rs 1,36,378 crore",
+   "C": "Rs 1,78,952 crore",
+   "D": "Rs 1,86,405 crore"
+  },
+  "answer": "D",
+  "explanation": "The Union Cabinet approved GEC-III with a total project outlay of Rs 1,86,405 crore targeted for completion by FY33. The outlay includes Rs 1,36,378 crore for intra-state transmission and Rs 50,000 crore for battery storage.",
+  "source_line": "The scheme is targeted to be set up by Financial Year 2032-33 (FY33) with total project outlay of Rs.1,86,405 Cr, comprising:Rs.1,36,378 Cr for the development of InSTS under GEC-IIIRs. 50,000 Cr for 50 GWh of BESS"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.2",
+  "type": "application",
+  "difficulty": "easy",
+  "question": "What is the primary objective of the Green Energy Corridor Phase-III (GEC-III) scheme approved by the Union Cabinet?",
+  "options": {
+   "A": "Implementation of adaptive traffic control systems",
+   "B": "Development of interstate freight rail corridors",
+   "C": "Solarisation of agricultural feeders across rural areas",
+   "D": "Evacuation of renewable energy via intra-state transmission"
+  },
+  "answer": "D",
+  "explanation": "GEC-III is designed to evacuate up to 135 GW of renewable energy by expanding intra-state transmission systems. It directly supports India's target of reaching 900 GW of non-fossil capacity by 2035.",
+  "source_line": "Union cabinet has approved the Green Energy Corridor Phase-III (GEC-III) scheme to expand state transmission networks."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.2",
+  "type": "static",
+  "difficulty": "hard",
+  "question": "In which year was the Centre for Development of Advanced Computing (C-DAC) established?",
+  "options": {
+   "A": "1984",
+   "B": "1988",
+   "C": "1991",
+   "D": "1998"
+  },
+  "answer": "B",
+  "explanation": "C-DAC was established in 1988 as an autonomous scientific society under the Ministry of Electronics and Information Technology. It serves as the project consultant for Delhi's Intelligent Traffic Management System (ITMS).",
+  "source_line": "Established: 1988"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.3",
+  "type": "numeric",
+  "difficulty": "easy",
+  "question": "What is the financial outlay approved by the Union Cabinet for the establishment of the SME Growth Fund (SGF)?",
+  "options": {
+   "A": "Rs 2,500 crore",
+   "B": "Rs 5,000 crore",
+   "C": "Rs 7,500 crore",
+   "D": "Rs 10,000 crore"
+  },
+  "answer": "D",
+  "explanation": "The Union Cabinet approved Rs 10,000 crore for the SME Growth Fund to provide long-term equity capital to SMEs. The fund was initially announced in the Union Budget 2026-27.",
+  "source_line": "Amount: Rs 10,000 Cr"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.3",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "Which Special Purpose Vehicle was approved by the Union Cabinet to strengthen research, planning, and monitoring in transportation and logistics?",
+  "options": {
+   "A": "National Multimodal Transport Mission",
+   "B": "Logistics Efficiency & Development Agency",
+   "C": "Integrated Transport & Logistics Authority",
+   "D": "National Freight Infrastructure Corporation"
+  },
+  "answer": "C",
+  "explanation": "The Union Cabinet approved setting up the Integrated Transport & Logistics Authority (ITLA) as a Special Purpose Vehicle. ITLA is tasked with research, planning, appraisal, monitoring, and impact assessment in transportation and logistics.",
+  "source_line": "It approved the establishment of a Special Purpose Vehicle (SPV), the Integrated Transport & Logistics Authority (ITLA)."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.4",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "The National Social Assistance Programme (NSAP) has been approved for continuation and renamed to which scheme?",
+  "options": {
+   "A": "Pradhan Mantri Samajik Sahayata Yojana",
+   "B": "Pradhan Mantri Samajik Suraksha Yojana",
+   "C": "Pradhan Mantri Divyangjan Kalyan Yojana",
+   "D": "Pradhan Mantri Garib Sahayata Abhiyan"
+  },
+  "answer": "A",
+  "explanation": "NSAP was renamed Pradhan Mantri Samajik Sahayata Yojana along with an approved outlay of Rs 53,428 crore for FY27 to FY31. Its four sub-schemes covering old age, widowhood, disability, and family benefits were also restructured.",
+  "source_line": "NSAP Renamed to: Pradhan Mantri Samajik Sahayata Yojana"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.4",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "Under the revised disability scheme of the National Social Assistance Programme, what is the new qualifying benchmark disability threshold?",
+  "options": {
+   "A": "25%",
+   "B": "40%",
+   "C": "50%",
+   "D": "80%"
+  },
+  "answer": "B",
+  "explanation": "The qualifying benchmark disability was reduced from 80% to 40% to align with the Rights of Persons with Disabilities Act 2016. Furthermore, the minimum-age restriction was waived so that assistance starts from birth.",
+  "source_line": "Also, the qualifying benchmark disability threshold reduced from the existing 80% to 40%, aligning with the Rights of Persons with Disability Act 2016 which has mandated the disability related assistance to be invariably 25% higher than similarly placed schemes for other categories."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.4",
+  "type": "statement",
+  "difficulty": "hard",
+  "question": "Consider the following statements regarding the modifications approved for the National Social Assistance Programme:\n1. The scheme is extended from FY27 to FY31 with an outlay of Rs 53,428 crore.\n2. Eligibility for the disability pension now starts from birth.\n3. The monthly assistance for disability beneficiaries aged 80 and above was set at Rs 1,000.\nWhich of the statements given above are correct?",
+  "options": {
+   "A": "1 and 2 only",
+   "B": "1 and 3 only",
+   "C": "2 and 3 only",
+   "D": "1, 2, and 3"
+  },
+  "answer": "A",
+  "explanation": "Statements 1 and 2 are correct as NSAP received Rs 53,428 crore for FY27–FY31 and disability eligibility now begins from birth. Statement 3 is incorrect because monthly assistance for beneficiaries aged 80 and above was fixed at Rs 625, not Rs 1,000.",
+  "source_line": "The cabinet has raised the monthly financial assistance to Rs 375 for beneficiaries aged up to 79 and Rs 625 for those aged 80 and above."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.5",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "What is the targeted annual container manufacturing capacity under the Container Manufacturing Promotion Scheme (CMPS)?",
+  "options": {
+   "A": "2.5 lakh TEUs",
+   "B": "5.0 lakh TEUs",
+   "C": "7.5 lakh TEUs",
+   "D": "10.0 lakh TEUs"
+  },
+  "answer": "C",
+  "explanation": "CMPS aims to increase India's annual container manufacturing capacity from roughly 70,000 TEUs to 7.5 lakh TEUs. The scheme has an approved budget of Rs 10,000 crore across FY28 to FY40.",
+  "source_line": "Target capacity: 7.5 lakh TEUs annually"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.5",
+  "type": "application",
+  "difficulty": "hard",
+  "question": "Under the Container Manufacturing Promotion Scheme (CMPS), what is the mandatory minimum local-content requirement starting from FY33?",
+  "options": {
+   "A": "60%",
+   "B": "70%",
+   "C": "80%",
+   "D": "90%"
+  },
+  "answer": "D",
+  "explanation": "Under the Operational Expenditure Assistance component of CMPS, local content is set at 70% until FY32 and increases to 90% from FY33. This requirement applies to eligible containers manufactured to global shipping standards.",
+  "source_line": "Local-content requirement: 70% until FY32, increasing to 90% from FY33."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.5",
+  "type": "odd_one",
+  "difficulty": "medium",
+  "question": "Which of the following statements regarding the Container Manufacturing Promotion Scheme (CMPS) is NOT correct?",
+  "options": {
+   "A": "The scheme was announced in the Union Budget 2026–27.",
+   "B": "The total financial outlay approved is Rs 10,000 crore.",
+   "C": "The implementation period spans from FY28 to FY40.",
+   "D": "The expected economic output by FY40 is around Rs 25,000 crore."
+  },
+  "answer": "D",
+  "explanation": "Statement D is incorrect because the expected economic output generated by FY40 is estimated at Rs 75,000 crore, more than seven times the government support. Statements A, B, and C accurately reflect the scheme's provisions.",
+  "source_line": "Expected economic output: Around Rs. 75,000 crore by FY 2039–40."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.6",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "What is the total financial outlay approved for the Khelo India Sports Goods Manufacturing Scheme for FY27–FY34?",
+  "options": {
+   "A": "Rs 1,130.00 crore",
+   "B": "Rs 1,450.50 crore",
+   "C": "Rs 1,856.67 crore",
+   "D": "Rs 2,120.25 crore"
+  },
+  "answer": "C",
+  "explanation": "The Union Cabinet approved the scheme with an outlay of Rs 1,856.67 crore for the period FY27 to FY34. The allocation includes Rs 1,130 crore for manufacturing support and Rs 105 crore for certification.",
+  "source_line": "Total Outlay: Rs.1,856.67 crore"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.6",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "Under the Khelo India Sports Goods Manufacturing Scheme, how many dedicated Sports Goods Manufacturing Zones (SGMZs) will be established?",
+  "options": {
+   "A": "2",
+   "B": "4",
+   "C": "6",
+   "D": "8"
+  },
+  "answer": "B",
+  "explanation": "The scheme provides for the setting up of 4 dedicated Sports Goods Manufacturing Zones (SGMZs), each spanning an area of over 300 acres. Around 90% of India's sports goods production is currently driven by small and micro enterprises.",
+  "source_line": "Manufacturing Zones: 4 Sports Goods Manufacturing Zones (SGMZs), each over 300 acres"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.6",
+  "type": "statement",
+  "difficulty": "hard",
+  "question": "Consider the following statements regarding the Khelo India Sports Goods Manufacturing Scheme:\n1. It is implemented by the Ministry of Youth Affairs and Sports for FY27 to FY34.\n2. It provides grants of up to Rs 20 lakh for sports start-ups.\n3. Anchor investment requires a minimum of Rs 500 crore to qualify for capital support.\nWhich of the statements given above is/are correct?",
+  "options": {
+   "A": "1 only",
+   "B": "1 and 2 only",
+   "C": "2 and 3 only",
+   "D": "1, 2, and 3"
+  },
+  "answer": "B",
+  "explanation": "Statements 1 and 2 are correct as MYAS implements the scheme and start-ups can receive grants up to Rs 20 lakh. Statement 3 is incorrect because the minimum anchor investment requirement is Rs 100 crore (offering 20% capital support), not Rs 500 crore.",
+  "source_line": "Anchor Investment: Minimum Rs.100 crore (20% capital support)"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.7",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "What is the total financial outlay approved by the Union Cabinet for the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY) covering FY27 to FY31?",
+  "options": {
+   "A": "Rs. 4,869.48 crore",
+   "B": "Rs. 6,245.50 crore",
+   "C": "Rs. 7,395.55 crore",
+   "D": "Rs. 8,120.75 crore"
+  },
+  "answer": "C",
+  "explanation": "The Union Cabinet approved PM VGSY with a total outlay of Rs. 7,395.55 crore. Out of this, the Central Share is Rs. 4,869.48 crore and the State Share is Rs. 2,526.07 crore.",
+  "source_line": "The scheme has a total outlay of Rs. 7,395.55 crore, comprising a Central Share of Rs. 4,869.48 crore and a State Share of Rs. 2,526.07 crore."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.7",
+  "type": "statement",
+  "difficulty": "hard",
+  "question": "Consider the following statements regarding the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY):\n1. It will be implemented over the period from FY27 to FY31.\n2. It covers over 2.55 lakh Panchayats and Traditional Local Bodies.\n3. The scheme excludes non-Part IX areas where Panchayats do not exist.\n\nWhich of the statements given above are correct?",
+  "options": {
+   "A": "1 and 2 only",
+   "B": "1 and 3 only",
+   "C": "2 and 3 only",
+   "D": "1, 2 and 3"
+  },
+  "answer": "A",
+  "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the scheme explicitly encompasses Traditional Local Bodies in non-Part IX areas where Panchayats do not exist.",
+  "source_line": "The scheme will cover all States and Union Territories (UTs), encompassing over 2.55 lakh Panchayats and Traditional Local Bodies, including those in non-Part IX areas where Panchayats do not exist."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.7",
+  "type": "static",
+  "difficulty": "medium",
+  "question": "Rajiv Ranjan Singh alias Lalan Singh, the Union Minister of Panchayati Raj, represents which Lok Sabha constituency?",
+  "options": {
+   "A": "Begusarai",
+   "B": "Munger",
+   "C": "Ujiarpur",
+   "D": "Arrah"
+  },
+  "answer": "B",
+  "explanation": "Rajiv Ranjan Singh represents the Munger constituency in Bihar. He serves as the Union Minister for Panchayati Raj as well as Fisheries, Animal Husbandry and Dairying.",
+  "source_line": "Union Minister: Rajiv Ranjan Singh alias Lalan Singh (Constituency – Munger, Bihar)"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.8",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "Under the Cabinet Committee on Security approved project to build eight Next-Generation Corvettes (NGCs), how many vessels will be constructed by GRSE?",
+  "options": {
+   "A": "3",
+   "B": "4",
+   "C": "5",
+   "D": "8"
+  },
+  "answer": "C",
+  "explanation": "Out of the eight Next-Generation Corvettes approved by the CCS, 5 will be constructed by GRSE and 3 will be built by GSL. The overall project cost exceeds Rs 40,000 crore.",
+  "source_line": "Constructed by: GRSE (5) and GSL (3)"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.8",
+  "type": "application",
+  "difficulty": "medium",
+  "question": "The eight Next-Generation Corvettes (NGCs) approved by the CCS are primarily designed to replace which existing classes of Indian Navy warships?",
+  "options": {
+   "A": "Rajput- and Delhi-class",
+   "B": "Veer- and Abhay-class",
+   "C": "Kamorta- and Kadmatt-class",
+   "D": "Khukri- and Kora-class"
+  },
+  "answer": "D",
+  "explanation": "The new corvettes are intended to replace the ageing Khukri- and Kora-class corvettes of the Indian Navy. The first NGC delivery is anticipated by 2030.",
+  "source_line": "The new corvettes are designed to replace the ageing Khukri- and Kora-class corvettes of the IN."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.8",
+  "type": "static",
+  "difficulty": "easy",
+  "question": "Where is the headquarters of Garden Reach Shipbuilders and Engineers Ltd (GRSE) located?",
+  "options": {
+   "A": "Visakhapatnam",
+   "B": "Kochi",
+   "C": "Chennai",
+   "D": "Kolkata"
+  },
+  "answer": "D",
+  "explanation": "GRSE is headquartered in Kolkata, West Bengal, and was established in 1884. It is a premier defence public sector shipyard under the Ministry of Defence.",
+  "source_line": "Headquarters: Kolkata, West Bengal (WB)"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.9",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "Who has been appointed as the Chairperson of the Parliamentary Standing Committee on External Affairs for the 2026-27 term?",
+  "options": {
+   "A": "Bhartruhari Mahtab",
+   "B": "Nishikant Dubey",
+   "C": "Manish Tewari",
+   "D": "Shashi Tharoor"
+  },
+  "answer": "D",
+  "explanation": "Congress MP Shashi Tharoor was appointed to head the Committee on External Affairs. Meanwhile, BJP MP Bhartruhari Mahtab was appointed as the chairperson of the Committee on Finance.",
+  "source_line": "Committee on External Affairs: It will be headed by Congress MP Shashi Tharoor."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.9",
+  "type": "numeric",
+  "difficulty": "easy",
+  "question": "What is the total membership strength of each Departmentally-Related Standing Committee (DRSC) in the Indian Parliament?",
+  "options": {
+   "A": "15",
+   "B": "21",
+   "C": "30",
+   "D": "31"
+  },
+  "answer": "D",
+  "explanation": "Each DRSC comprises 31 members. Out of these, 21 members are nominated from the Lok Sabha and 10 members are nominated from the Rajya Sabha.",
+  "source_line": "Composition: Each standing committee consists of 31 members i.e. 21 from Lok Sabha and 10 from Rajya Sabha."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.9",
+  "type": "statement",
+  "difficulty": "hard",
+  "question": "Consider the following statements regarding Departmentally-Related Standing Committees (DRSCs):\n1. Originally, 17 DRSCs were constituted in 1993, and 7 more were added in 2004.\n2. Out of the 24 DRSCs, 16 work under the Lok Sabha Speaker and 8 under the Rajya Sabha Chairman.\n3. The term of the reconstituted committees for 2026-27 became effective from September 26, 2026.\n\nWhich of the statements given above are correct?",
+  "options": {
+   "A": "1 and 2 only",
+   "B": "1 and 3 only",
+   "C": "2 and 3 only",
+   "D": "1, 2 and 3"
+  },
+  "answer": "D",
+  "explanation": "All three statements are correct. DRSCs expanded from 17 to 24 in 2004, with 16 reporting to the Speaker and 8 to the Chairman, effective September 26, 2026.",
+  "source_line": "Based on the recommendation of the Rules Committee of the Lok Sabha, 17 DRSCs were originally constituted in the Parliament in 1993. Later, 7 more such committees were formed in 2004, thus increasing the total strength of such committees from 17 to 24."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.10",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "In which city did the UIDAI host the 'Aadhaar Samvaad' conference on the occasion of the 17th Aadhaar Day?",
+  "options": {
+   "A": "Hyderabad",
+   "B": "New Delhi",
+   "C": "Kolkata",
+   "D": "Bengaluru"
+  },
+  "answer": "C",
+  "explanation": "UIDAI hosted the 'Aadhaar Samvaad' conference in Kolkata, West Bengal, to mark the 17th Aadhaar Day. Five new resident-centric digital initiatives were launched during the event.",
+  "source_line": "Venue: Kolkata, WB"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.10",
+  "type": "static",
+  "difficulty": "medium",
+  "question": "On September 29, 2010, the first Aadhaar number was issued to a resident of which village in Maharashtra?",
+  "options": {
+   "A": "Ralegan Siddhi",
+   "B": "Tembhli",
+   "C": "Shani Shingnapur",
+   "D": "Hiware Bazar"
+  },
+  "answer": "B",
+  "explanation": "The first Aadhaar number was issued on September 29, 2010, to a resident of Tembhli village in Maharashtra. This date is officially commemorated every year as Aadhaar Day.",
+  "source_line": "The first Aadhaar number was issued on 29 September 2010 to a resident of Tembhli village, Maharashtra, a day now observed as Aadhaar Day."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.10",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "Who serves as the Chief Executive Officer (CEO) of the Unique Identification Authority of India (UIDAI)?",
+  "options": {
+   "A": "Rajesh Verma",
+   "B": "Saurabh Vijay",
+   "C": "Amit Agrawal",
+   "D": "Jitin Prasada"
+  },
+  "answer": "B",
+  "explanation": "Saurabh Vijay serves as the CEO of the Unique Identification Authority of India (UIDAI). UIDAI operates as a statutory authority under MeitY.",
+  "source_line": "Chief Executive Officer (CEO) – Saurabh Vijay"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.11",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "Which institution serves as the implementing agency for India's first forest and agroforestry certification scheme, 'PRAMAAN'?",
+  "options": {
+   "A": "Wildlife Institute of India (WII), Dehradun",
+   "B": "Forest Research Institute (FRI), Dehradun",
+   "C": "Indian Council of Forestry Research and Education (ICFRE), Dehradun",
+   "D": "Indian Institute of Forest Management (IIFM), Bhopal"
+  },
+  "answer": "D",
+  "explanation": "PRAMAAN certification is implemented by the Indian Institute of Forest Management (IIFM), Bhopal. It is based on independent third-party audits accredited by NABCB.",
+  "source_line": "Implemented by: IIFM, Bhopal, MP"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.11",
+  "type": "application",
+  "difficulty": "medium",
+  "question": "Under the PRAMAAN certification framework, which organisation was awarded certification for plantations covering 33,000 hectares?",
+  "options": {
+   "A": "Madhya Pradesh State Forest Development Corporation",
+   "B": "Andhra Pradesh Forest Development Corporation",
+   "C": "Odisha Forest Development Corporation",
+   "D": "Gujarat State Forest Development Corporation"
+  },
+  "answer": "B",
+  "explanation": "The Andhra Pradesh Forest Development Corporation (APFDC) received certification for 33,000 hectares of plantations. Govind Mohapatra, a bamboo farmer, was another recipient.",
+  "source_line": "Certificates were awarded to the Andhra Pradesh Forest Development Corporation (APFDC) for plantations covering 33,000 hectares, and to Govind Mohapatra, a bamboo farmer associated with the Odisha Bamboo Development Agency (OBDA)."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.12",
+  "type": "numeric",
+  "difficulty": "easy",
+  "question": "Under the Swachh Bharat Mission-Urban 2.0, how many clean role-model cities across 24 states will be developed under the 'PRAGATI' initiative?",
+  "options": {
+   "A": "25",
+   "B": "50",
+   "C": "75",
+   "D": "100"
+  },
+  "answer": "B",
+  "explanation": "The PRAGATI 50 initiative aims to develop 50 clean role-model cities across 24 states under SBM-Urban 2.0. The initiative was launched by Union Minister Manohar Lal Khattar.",
+  "source_line": "Key Purpose: To develop 50 cities (across 24 states) as clean role-model cities under SBM-Urban 2.0"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.12",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "Union Minister Manohar Lal Khattar inaugurated the first Reduce, Reuse and Recycle (RRR) Centre established in a Union Ministry office at which premises?",
+  "options": {
+   "A": "Sankalp Bhawan, New Delhi",
+   "B": "Paryavaran Bhawan, New Delhi",
+   "C": "Nirman Bhawan, New Delhi",
+   "D": "Dak Bhawan, New Delhi"
+  },
+  "answer": "A",
+  "explanation": "The first RRR Centre in a Union Ministry office was inaugurated at Sankalp Bhawan, New Delhi. It aims to foster circularity, resource recovery, and sustainable consumption in government workplaces.",
+  "source_line": "As part of Swachhata Hi Seva 2026, Union Minister Manohar Lal Khattar inaugurated a Reduce, Reuse and Recycle (RRR) Centre at Sankalp Bhawan, New Delhi (Delhi)."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.13",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "What is the total financial outlay approved for the implementation of the National Coastal Mission (NCM) 2.0?",
+  "options": {
+   "A": "Rs 87 crore",
+   "B": "Rs 520 crore",
+   "C": "Rs 767 crore",
+   "D": "Rs 950 crore"
+  },
+  "answer": "C",
+  "explanation": "NCM 2.0 has been approved with a total budget outlay of Rs 767 crore. The initial outlay for NCM 1.0 was Rs 87 crore.",
+  "source_line": "NCM 1.0 will be subsumed with NCM 2.0, which was approved with a total budget outlay of Rs 767 crore."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.13",
+  "type": "statement",
+  "difficulty": "hard",
+  "question": "Consider the following statements regarding the National Coastal Mission (NCM) 2.0:\n1. It will be implemented till 2030-31.\n2. It covers 9 coastal States and 4 Union Territories.\n3. It adopts a Whole-of-Government Approach.\nWhich of the statements given above are correct?",
+  "options": {
+   "A": "1 and 2 only",
+   "B": "2 and 3 only",
+   "C": "1 and 3 only",
+   "D": "1, 2 and 3"
+  },
+  "answer": "D",
+  "explanation": "All three statements are correct as NCM 2.0 runs till 2030-31 across 9 states and 4 UTs under a Whole-of-Government approach. NCM 1.0 is subsumed into this phase.",
+  "source_line": "The 2nd phase of NCM will be implemented till 2030-31 across:9 coastal States: Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu (TN), Andhra Pradesh (AP), Odisha, and West Bengal (WB);4 UTs: Dadra and Nagar Haveli and Daman & Diu, Andaman & Nicobar (A&N) Islands, Puducherry, and Lakshadweep."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.13",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "Which Union Ministry launched the implementation guidelines for the National Coastal Mission (NCM) 2.0 in October 2026?",
+  "options": {
+   "A": "Ministry of Earth Sciences",
+   "B": "Ministry of Jal Shakti",
+   "C": "Ministry of Environment, Forest and Climate Change",
+   "D": "Ministry of Ports, Shipping and Waterways"
+  },
+  "answer": "C",
+  "explanation": "Union Minister Bhupender Yadav of the Ministry of Environment, Forest and Climate Change (MoEFCC) launched the guidelines. The mission aims to strengthen coastal resilience and the blue economy.",
+  "source_line": "Launched by: Union Minister Bhupender Yadav, MoEFCC"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.14",
+  "type": "application",
+  "difficulty": "medium",
+  "question": "What is the primary function of the centralised application 'SAMAR-SETU' operated under the Defence Accounts Department?",
+  "options": {
+   "A": "Managing pay and allowances of Indian Army Agniveers",
+   "B": "Monitoring real-time defence capital procurement spending",
+   "C": "Tracking logistics inventory across ordnance depots",
+   "D": "Disbursing defence pensions through automated verification"
+  },
+  "answer": "A",
+  "explanation": "SAMAR-SETU manages the pay and allowances of over 2.3 lakh Indian Army Agniveers through automated processes. Pension management is handled separately by the SPARSH platform.",
+  "source_line": "SAMAR-SETU is a centralised application operated from the Central Agniveer Pay and Accounts Office (CAPAO) for managing the pay and allowances of more than 2.3 lakh Indian Army Agniveers through automated processes, while SPARSH (System for Pension Administration – Raksha) has improved efficiency in defence pension management through successful data cleaning and digitisation initiatives."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.14",
+  "type": "static",
+  "difficulty": "hard",
+  "question": "In which year was the Defence Accounts Department (DAD) established?",
+  "options": {
+   "A": "1747",
+   "B": "1773",
+   "C": "1858",
+   "D": "1947"
+  },
+  "answer": "A",
+  "explanation": "The Defence Accounts Department was established in the year 1747. It celebrated its 279th Annual Day on October 1, 2026.",
+  "source_line": "Established: 1747"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.14",
+  "type": "numeric",
+  "difficulty": "easy",
+  "question": "Which Annual Day milestone of the Defence Accounts Department (DAD) was celebrated on October 1, 2026?",
+  "options": {
+   "A": "250th",
+   "B": "275th",
+   "C": "279th",
+   "D": "300th"
+  },
+  "answer": "C",
+  "explanation": "The Defence Accounts Department celebrated its 279th Annual Day on October 1, 2026. The department traces its origins back to 1747.",
+  "source_line": "What Event: 279th Annual Day of DAD"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.15",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "Under the New Discovery Track of the PRIP Scheme, what is the maximum funding assistance provided per project?",
+  "options": {
+   "A": "Rs 5 crore",
+   "B": "Rs 25 crore",
+   "C": "Rs 50 crore",
+   "D": "Rs 100 crore"
+  },
+  "answer": "C",
+  "explanation": "The New Discovery Track provides financial assistance of up to Rs 50 crore per project. It enables projects to advance from TRL 1–3 to TRL 6.",
+  "source_line": "New Track Assistance: Up to Rs 50 crore per project"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.15",
+  "type": "application",
+  "difficulty": "medium",
+  "question": "What is the mandatory minimum co-funding required from institutional investors under the New Discovery Track of the PRIP Scheme?",
+  "options": {
+   "A": "15%",
+   "B": "20%",
+   "C": "25%",
+   "D": "35%"
+  },
+  "answer": "C",
+  "explanation": "The New Discovery Track mandates a minimum of 25% co-funding from institutional investors. The PRIP Scheme itself was launched on 17 August 2023.",
+  "source_line": "Co-funding Requirement: Minimum 25% from institutional investors"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.15",
+  "type": "recall",
+  "difficulty": "easy",
+  "question": "Which government department implements the Promotion of Research and Innovation in Pharma-MedTech Sector (PRIP) Scheme?",
+  "options": {
+   "A": "Department of Health Research",
+   "B": "Department of Pharmaceuticals",
+   "C": "Department of Biotechnology",
+   "D": "Department of Science and Technology"
+  },
+  "answer": "B",
+  "explanation": "The PRIP Scheme is implemented by the Department of Pharmaceuticals (DoPs) under the Ministry of Chemicals and Fertilizers. It has an outlay of Rs 5,000 crore.",
+  "source_line": "About PRIP Scheme: Launched on 17 August 2023 with an outlay of Rs 5,000 crore, implemented by DoPs, MoC&F, to strengthen the innovation ecosystem and support startups, MSMEs, and industry across the drug development lifecycle."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.16",
+  "type": "application",
+  "difficulty": "easy",
+  "question": "What is the primary objective of the 'CAG-BHASHINI Anuvaad' platform launched in October 2026?",
+  "options": {
+   "A": "AI-based translation of official CAG documents and audit reports",
+   "B": "Real-time voice transcription of parliamentary committee debates",
+   "C": "Automated reconciliation of state government treasury accounts",
+   "D": "Securing local government expenditure records on blockchain"
+  },
+  "answer": "A",
+  "explanation": "CAG-BHASHINI Anuvaad is an AI-based tool designed to translate official CAG documents and audit reports. It provides multilingual access while preserving data sovereignty.",
+  "source_line": "Purpose: Translation of official CAG documents and audit reports"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.16",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "Under which national mission was the BHASHINI platform originally launched in 2022?",
+  "options": {
+   "A": "National Artificial Intelligence Mission",
+   "B": "National Supercomputing Mission",
+   "C": "Digital India Bhasha Abhiyan",
+   "D": "National Language Translation Mission"
+  },
+  "answer": "D",
+  "explanation": "BHASHINI was launched in 2022 under the National Language Translation Mission (NLTM). It supports 36 Indian text languages and 23 voice languages.",
+  "source_line": "About BHASHINI: Launched in 2022 under the National Language Translation Mission (NLTM), BHASHINI powers 800+ government websites, has enabled over 9 billion AI inferences, processes 24+ million daily, and supports 36 Indian text languages, 23 Indian voice languages and 35 international languages."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.17",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "What is the team composition of each Joint Squad for Health (JOSH) Team launched under PMTBMBA?",
+  "options": {
+   "A": "3 MY Bharat Volunteers and 7 ASHA Workers",
+   "B": "5 MY Bharat Volunteers and 5 NCC Cadets",
+   "C": "5 NSS Volunteers and 5 Red Cross Cadets",
+   "D": "10 MY Bharat Volunteers"
+  },
+  "answer": "B",
+  "explanation": "Each JOSH Team comprises 5 MY Bharat Volunteers and 5 NCC Cadets. The initiative focuses on youth-led community participation for TB elimination.",
+  "source_line": "Team Composition: 5 MY Bharat Volunteers + 5 NCC Cadets"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.17",
+  "type": "statement",
+  "difficulty": "hard",
+  "question": "Consider the following statements regarding India's TB elimination progress highlighted during the launch of JOSH Teams:\n1. India recorded a 21% decline in TB incidence.\n2. India's TB treatment coverage rose to 92%.\n3. The first phase of JOSH Teams covers 55 districts across 11 States and Union Territories.\nWhich of the statements given above are correct?",
+  "options": {
+   "A": "1 and 2 only",
+   "B": "2 and 3 only",
+   "C": "1 and 3 only",
+   "D": "1, 2 and 3"
+  },
+  "answer": "D",
+  "explanation": "All three statements are correct. India achieved a 21% decline in TB incidence (vs 12% globally) and 92% treatment coverage (vs 78% globally), with Phase 1 spanning 55 districts.",
+  "source_line": "TB Incidence: India recorded a 21% decline in TB incidence, compared with the global decline of 12%, while its TB treatment coverage rose to 92%, exceeding the global coverage of 78%."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.17",
+  "type": "static",
+  "difficulty": "medium",
+  "question": "Dr. Robert Koch discovered Mycobacterium tuberculosis, commemorated annually as World TB Day, on 24 March of which year?",
+  "options": {
+   "A": "1865",
+   "B": "1882",
+   "C": "1895",
+   "D": "1905"
+  },
+  "answer": "B",
+  "explanation": "Dr. Robert Koch discovered Mycobacterium tuberculosis on 24 March 1882. This historic date is commemorated globally every year as World TB Day.",
+  "source_line": "About TB: Caused by the acid-fast bacillus Mycobacterium tuberculosis, discovered by German physician Dr. Robert Koch on 24 March 1882, commemorated annually as World TB Day"
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.18",
+  "type": "numeric",
+  "difficulty": "medium",
+  "question": "What is the total length of the Poonamallee–Vadapalani elevated stretch of Chennai Metro Rail Phase II inaugurated in October 2026?",
+  "options": {
+   "A": "11.20 km",
+   "B": "14.64 km",
+   "C": "18.50 km",
+   "D": "22.35 km"
+  },
+  "answer": "B",
+  "explanation": "The Poonamallee–Vadapalani elevated stretch of Corridor 4 is 14.64 km long. It features 11 stations and a 3.7-km double-decker structure.",
+  "source_line": "Coverage: The 14.64-kilometre (km) elevated stretch includes 11 stations, a 3.7-km double-decker structure and advanced signalling for driverless operations."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.18",
+  "type": "recall",
+  "difficulty": "medium",
+  "question": "The 36-km four-lane Vadugapatti–Therkuvenganallur section inaugurated in Tamil Nadu in October 2026 is part of which National Highway?",
+  "options": {
+   "A": "NH 44",
+   "B": "NH 48",
+   "C": "NH 544",
+   "D": "NH 744"
+  },
+  "answer": "D",
+  "explanation": "The 36-km section belongs to NH 744 and was built to improve connectivity to pilgrimage, industrial, and commercial hubs.",
+  "source_line": "NH-744: The 36-km, four-lane Vadugapatti–Therkuvenganallur section of NH 744 was inaugurated to improve access to pilgrimage, industrial, and commercial centres."
+ },
+ {
+  "topic": "National Affairs",
+  "news_id": "October2026-1.18",
+  "type": "static",
+  "difficulty": "easy",
+  "question": "Mukurthi National Park is located in which of the following Indian States?",
+  "options": {
+   "A": "Karnataka",
+   "B": "Tamil Nadu",
+   "C": "Kerala",
+   "D": "Andhra Pradesh"
+  },
+  "answer": "B",
+  "explanation": "Mukurthi National Park is located in Tamil Nadu alongside Guindy National Park.",
+  "source_line": "National Park (NP): Guindy NP, Mukurthi NP"
+ }
+]
