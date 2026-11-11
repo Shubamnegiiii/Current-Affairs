@@ -1,0 +1,42 @@
+name: Generate quizzes
+on:
+  push:
+    branches: [main]
+    paths: ["CA_*_Card_Notes.html"]
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Notes file to (re)generate, e.g. CA_October2026_Card_Notes.html. Empty = new months only."
+        required: false
+        default: ""
+      max_batches:
+        description: "Test mode: stop after this many batches (e.g. 3). Empty = no limit."
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency:
+  group: quiz
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install cheerio@1.0.0
+      - run: node scripts/generate.mjs
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          MODEL: gemini-3.8-flash
+          FILE: ${{ github.event.inputs.file }}
+          MAX_BATCHES: ${{ github.event.inputs.max_batches }}
+      - name: Save quizzes
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "quiz-bot@users.noreply.github.com"
+          git add quizzes
+          git diff --cached --quiet || (git commit -m "update quizzes" && git push)
