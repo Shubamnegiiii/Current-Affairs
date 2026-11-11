@@ -27,6 +27,10 @@ OPTION RULES (most important)
 2. Distractors must be plausible and from the same domain. NEVER take options from other news items or unrelated topics.
 3. No "All of the above", "None of these", "Both A and B".
 4. Similar length and grammar. Numbers in ascending order.
+- Never take an option from another news item, even a similar-looking one.
+- All 4 options must have the same shape (all single names, or all two-part combinations).
+- Do not ask for a number that can be calculated from another fact in the same item (for example anniversary number from founding year).
+- Do not ask a question whose answer appears in the wording of another question for the same item.
 
 SELF-CHECK: drop any question whose answer is not clearly in the text, whose options can be eliminated for being off-topic, or that is a near-duplicate.
 
